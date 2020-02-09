@@ -3,18 +3,18 @@
     "id": 0,
     "name": "Telegram",
     "link": "https://t.me/yordanbg",
-    "icon": "/icons/telegram.svg"
+    "icon": "portfolio/icons/telegram.svg"
   },
   {
     "id": 1,
     "name": "Github",
     "link": "https://github.com/Galabov93",
-    "icon": "/icons/github.svg"
+    "icon": "portfolio/icons/github.svg"
   },
   {
     "id": 3,
     "name": "LinkedIn",
     "link": "https://www.linkedin.com/in/yordan-galabov-54622ab6/",
-    "icon": "/icons/linkedIn.svg"
+    "icon": "portfolio/icons/linkedIn.svg"
   }
 ]
